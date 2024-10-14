@@ -23,7 +23,7 @@ fi
 
 SDK_DIR="$HOME/Development/private/DynamicLibrary/BridgeSDK/BridgeSDK"
 MODE=Release
-VERSION=`git describe --tags --abbrev=0`
+VERSION="1.0.0"
 
 echo
 
@@ -70,5 +70,6 @@ xcodebuild -create-xcframework \
 #codesign --timestamp -v --sign "Apple Distribution: Decibel Insight Ltd. (RLTB3DP362)" "$XCFRAMEWORK_DIR"
 
 cp "$SDK_DIR/Package.swift" "$XCFRAMEWORK_DIR/Package.swift"
+cp "$SDK_DIR/BridgeSDK.podspec" "$XCFRAMEWORK_DIR/BridgeSDK.podspec"
 
 rm -rf "$SDK_DIR/Archives/"

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BridgeSDK-Swift.h</key>
 		<data>
-		KrDQdBuctut2svqJyeRwDTF4tXU=
+		3sTU+eaZvtxHbzProY0sufD6q0o=
 		</data>
 		<key>Headers/BridgeSDK.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Tb0cxD3WeZF4jCowtZNjX24WOyQ=
+		uWRpZBTiW8BN7cd0Lxi/E1mKdRA=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		IQa8dVW5Z8iY//SGCZwIR4Mfqgg=
+		jLHrY1KVevBVA/WMtmINbR7K2dQ=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IQa8dVW5Z8iY//SGCZwIR4Mfqgg=
+		jLHrY1KVevBVA/WMtmINbR7K2dQ=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AXwGt967Jy/p4D1TTQinihpKz6w=
+		sXNlFucYL4D4Uyhp632UrOw0wNY=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Tb0cxD3WeZF4jCowtZNjX24WOyQ=
+		uWRpZBTiW8BN7cd0Lxi/E1mKdRA=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		f9JyW1TtaC9WUZBltF6xlSr7xpM=
+		EK21HObnQkc8SFwvu0mjiSDmocw=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		f9JyW1TtaC9WUZBltF6xlSr7xpM=
+		EK21HObnQkc8SFwvu0mjiSDmocw=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		txF4tgg5JxDs/l1nw4tkiWIRW60=
+		2w6NGfUmJEp0rya1cg8mdO9SyDY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H0V7pnWo1Hl0Mp9eb9ds1ueWykOWwU5Ci5504lSonYU=
+			UlnJmTd8FTvfM5bIc/qgD8m+k4xZEBTJm8XYFLzGgkM=
 			</data>
 		</dict>
 		<key>Headers/BridgeSDK.h</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bt0VO09cAJVbbZElxpClCgExepVYSj/Qdz12t5r1alo=
+			mVN1Kjed0Vmi9skfVLOGMB/+QCWjxyEV2BuktSIE040=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S7mc4WqgaJp321Gq8cpE3y8V64G2QzRkGjDcBc0nNPc=
+			Dja7KXR/A54NhuGeRY6pan81FF1OG3ETWRipy9nVE1I=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S7mc4WqgaJp321Gq8cpE3y8V64G2QzRkGjDcBc0nNPc=
+			Dja7KXR/A54NhuGeRY6pan81FF1OG3ETWRipy9nVE1I=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6UKoCFF3GmNg+n6FpkgbzMU1OP//TEBjJX+bmhB6IxQ=
+			82aSgm20axvptYNStlVlHPmfsqCwsPxBLIs4m8D0uF4=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bt0VO09cAJVbbZElxpClCgExepVYSj/Qdz12t5r1alo=
+			mVN1Kjed0Vmi9skfVLOGMB/+QCWjxyEV2BuktSIE040=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a1YyZ+7jtaws+qOWK/CvFEfF4gIPbZGhNh3RbbbpvKc=
+			XE/OZw/6TCtCirrGFCK0GqwbkCPhZXNMAeswGUHJ1Hs=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a1YyZ+7jtaws+qOWK/CvFEfF4gIPbZGhNh3RbbbpvKc=
+			XE/OZw/6TCtCirrGFCK0GqwbkCPhZXNMAeswGUHJ1Hs=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			An49y/ziWgJRj5yz4xywCdw/lqyhbZLipR80MhJlGM4=
+			ElxXaWyqylTacndNu6BGJi4QA7svDCrnD9/e/Eccncg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
