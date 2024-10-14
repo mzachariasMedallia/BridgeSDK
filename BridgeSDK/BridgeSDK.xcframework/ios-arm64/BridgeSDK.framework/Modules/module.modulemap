@@ -4,3 +4,8 @@ framework module BridgeSDK {
 
   module * { export * }
 }
+
+module BridgeSDK.Swift {
+  header "BridgeSDK-Swift.h"
+  requires objc
+}

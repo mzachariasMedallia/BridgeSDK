@@ -4,41 +4,52 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/BridgeSDK-Swift.h</key>
+		<data>
+		jrqlvM4QUjIbCCSq2dDyBjs0Ejk=
+		</data>
 		<key>Headers/BridgeSDK.h</key>
 		<data>
 		NgTP6t4u4oW4dAiRwWEMkoE82Go=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hf7qq6dN9HS/VZ/Hjr30/quoSwA=
+		wumLjAxXCtbL3FGhZBj7wmuSLg0=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3IU0rAgld08IbcIVuBzwCNPtw1E=
+		Afd2VHGYzKvSHK8fzmrxVB4om3s=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		7aDBlyhrwtYxXGN/1WbQICG6csg=
+		coJoAu9UMpwsjG9bu0m7CZedniY=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		i0ErvF5n6AflDcLUog+2nNeeS1s=
+		gHTsj6HeOA8Tg+x57akORDyMKKQ=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		7aDBlyhrwtYxXGN/1WbQICG6csg=
+		coJoAu9UMpwsjG9bu0m7CZedniY=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bjmJTeW0/+nSedwCIaaOimIzH6E=
+		AcN1ZkAK/crSTnkQH6hcF9BTKQU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		7VvFuDOSe60M86FLnVVZiSgKQSc=
+		R8frvTfAqn4u/myYIXX3/aPGrnM=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/BridgeSDK-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v9xaUdxBS/6R9SPpzZ65p9HoaoD2XiMur9RngHudAqg=
+			</data>
+		</dict>
 		<key>Headers/BridgeSDK.h</key>
 		<dict>
 			<key>hash2</key>
@@ -50,42 +61,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OD2vRfCTb3bdTWF+ZFWY0dn50YnkHDye3kH1DvCQsuU=
+			SJ1xHadDTGGDLy7psviqshp1CBwkqziEFeD37Uui64c=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j5NHFkdLEpmuo6otQZ9KYVB0R95Wlpmo3uu/w8/DJnc=
+			OUL2p5PXIzapN9cUJEL3ZrZ2ov53DCE1IkvRQptr7Rk=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dA79PPrNe9anbP9MYjmndwBxpMy2Yx4gtEYryD4N184=
+			7fKl2itkCb5AwJYSRYx5g2lhLTBcmlkOJFlThmBzqhA=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j5NHFkdLEpmuo6otQZ9KYVB0R95Wlpmo3uu/w8/DJnc=
+			OUL2p5PXIzapN9cUJEL3ZrZ2ov53DCE1IkvRQptr7Rk=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gC+iIB3YYGOzUWoc6MAfQKfwj5OkGL+wuS6/foUi1u0=
+			wucUnvRA0Hcw0dafKjjI5wAssIebU1L1WU2hI1VmMWU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AzqPhhC7e4zppj8t5BxmHZiYsnH1VL0U/k5UrnTjows=
+			3QBj/JmUzoPkQy85pSaFbC4tX8z2cc/WbpMkz7wnHuE=
 			</data>
 		</dict>
 	</dict>

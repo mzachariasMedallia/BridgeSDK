@@ -5,13 +5,13 @@
 //
 
 import Foundation
-
-public class BridgeSDK {
+@objc
+public class BridgeSDK: NSObject {
     
     var commData: String
     
     @objc
-    required public init() {
+    required public override init() {
         self.commData = ""
     }
     
