@@ -95,6 +95,56 @@
               "ObjC"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sendNew",
+            "printedName": "sendNew(data:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BridgeSDK@objc(cs)BridgeSDK(im)sendNew:",
+            "mangledName": "$s9BridgeSDKAAC7sendNew4dataySS_tF",
+            "moduleName": "BridgeSDK",
+            "objc_name": "sendNew:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "receiveNew",
+            "printedName": "receiveNew()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@BridgeSDK@objc(cs)BridgeSDK(im)receiveNew",
+            "mangledName": "$s9BridgeSDKAAC10receiveNewSSyF",
+            "moduleName": "BridgeSDK",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",

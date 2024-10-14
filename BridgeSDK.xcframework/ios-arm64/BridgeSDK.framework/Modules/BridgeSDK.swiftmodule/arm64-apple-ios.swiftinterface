@@ -12,5 +12,7 @@ import _SwiftConcurrencyShims
   @objc required override dynamic public init()
   @objc(send:) public func send(data: Swift.String)
   @objc public func receive() -> Swift.String
+  @objc(sendNew:) public func sendNew(data: Swift.String)
+  @objc public func receiveNew() -> Swift.String
   @objc deinit
 }

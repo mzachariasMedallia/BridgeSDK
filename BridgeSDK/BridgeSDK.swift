@@ -29,4 +29,19 @@ public class BridgeSDK: NSObject {
         formatter.timeStyle = .medium
         return "=== \(type(of: self)).\(#function):\(#line) " + self.commData + ":::" + formatter.string(from: today)
     }
+    
+    @objc(sendNew:)
+    public func sendNew(data: String) {
+        self.commData = data
+        print("=== \(type(of: self)).\(#function):\(#line) - \(data)")
+    }
+    
+    @objc
+    public func receiveNew() -> String {
+        print("=== \(type(of: self)).\(#function):\(#line) - \(commData)")
+        let today = Date.now
+        let formatter = DateFormatter()
+        formatter.timeStyle = .medium
+        return "=== \(type(of: self)).\(#function):\(#line) " + self.commData + ":::" + formatter.string(from: today)
+    }
 }

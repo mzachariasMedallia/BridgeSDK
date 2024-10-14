@@ -309,6 +309,8 @@ SWIFT_CLASS("_TtC9BridgeSDK9BridgeSDK")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (void)send:(NSString * _Nonnull)data;
 - (NSString * _Nonnull)receive SWIFT_WARN_UNUSED_RESULT;
+- (void)sendNew:(NSString * _Nonnull)data;
+- (NSString * _Nonnull)receiveNew SWIFT_WARN_UNUSED_RESULT;
 @end
 
 #endif
