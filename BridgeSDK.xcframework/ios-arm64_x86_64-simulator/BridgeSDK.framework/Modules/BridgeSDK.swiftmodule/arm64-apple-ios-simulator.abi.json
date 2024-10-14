@@ -98,8 +98,8 @@
           },
           {
             "kind": "Function",
-            "name": "sendNew",
-            "printedName": "sendNew(data:)",
+            "name": "send3",
+            "printedName": "send3(data:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -115,7 +115,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@BridgeSDK@objc(cs)BridgeSDK(im)sendNew:",
-            "mangledName": "$s9BridgeSDKAAC7sendNew4dataySS_tF",
+            "mangledName": "$s9BridgeSDKAAC5send34dataySS_tF",
             "moduleName": "BridgeSDK",
             "objc_name": "sendNew:",
             "declAttributes": [
@@ -126,8 +126,8 @@
           },
           {
             "kind": "Function",
-            "name": "receiveNew",
-            "printedName": "receiveNew()",
+            "name": "receive3",
+            "printedName": "receive3()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -137,8 +137,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@BridgeSDK@objc(cs)BridgeSDK(im)receiveNew",
-            "mangledName": "$s9BridgeSDKAAC10receiveNewSSyF",
+            "usr": "c:@M@BridgeSDK@objc(cs)BridgeSDK(im)receive3",
+            "mangledName": "$s9BridgeSDKAAC8receive3SSyF",
             "moduleName": "BridgeSDK",
             "declAttributes": [
               "AccessControl",

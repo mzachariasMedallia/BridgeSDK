@@ -31,13 +31,13 @@ public class BridgeSDK: NSObject {
     }
     
     @objc(sendNew:)
-    public func sendNew(data: String) {
+    public func send3(data: String) {
         self.commData = data
         print("=== \(type(of: self)).\(#function):\(#line) - \(data)")
     }
     
     @objc
-    public func receiveNew() -> String {
+    public func receive3() -> String {
         print("=== \(type(of: self)).\(#function):\(#line) - \(commData)")
         let today = Date.now
         let formatter = DateFormatter()
