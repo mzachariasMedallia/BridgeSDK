@@ -21,7 +21,7 @@ else
   fi
 fi
 
-SDK_DIR="$HOME/Development/private/DynamicLibrary/BridgeSDK/BridgeSDK"
+SDK_DIR="$HOME/Development/private/DynamicLibrary/BridgeSDK"
 MODE=Release
 VERSION="1.0.0"
 

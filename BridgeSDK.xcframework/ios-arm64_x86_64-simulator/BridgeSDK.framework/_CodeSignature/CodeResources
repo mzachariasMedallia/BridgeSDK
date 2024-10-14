@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sXNlFucYL4D4Uyhp632UrOw0wNY=
+		sbAEn904fqzfqnDHYshQHbRfEt8=
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2w6NGfUmJEp0rya1cg8mdO9SyDY=
+		dan6aIKWlVSvpJqdwhC4DgXz0AQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			82aSgm20axvptYNStlVlHPmfsqCwsPxBLIs4m8D0uF4=
+			tB9OC1us/WQojulbEKGDHm5I+Fur1Hnr1IlQjniEzlA=
 			</data>
 		</dict>
 		<key>Modules/BridgeSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ElxXaWyqylTacndNu6BGJi4QA7svDCrnD9/e/Eccncg=
+			DPr90sqrCXdZRfIDJ1UD2Paz6hq65R9t7HMNGC3CAo8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
