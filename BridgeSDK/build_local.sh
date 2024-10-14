@@ -38,7 +38,7 @@ echo
 
 ARCHIVE_DIR="$SDK_DIR/Archives/$MODE/BridgeSDK"
 ARCHIVE_DIR_SIMULATOR="$SDK_DIR/Archives/$MODE/BridgeSDK-Simulator"
-XCFRAMEWORK_DIR="$SDK_DIR/$VERSION/"
+XCFRAMEWORK_DIR="$SDK_DIR/BridgeSDK.xcframework"
 
 rm -rf "$ARCHIVE_DIR.xcarchive"
 rm -rf "$ARCHIVE_DIR_SIMULATOR.xcarchive"
@@ -65,11 +65,8 @@ xcodebuild archive \
 xcodebuild -create-xcframework \
     -framework "$ARCHIVE_DIR.xcarchive/Products/Library/Frameworks/BridgeSDK.framework" \
     -framework "$ARCHIVE_DIR_SIMULATOR.xcarchive/Products/Library/Frameworks/BridgeSDK.framework" \
-    -output "$XCFRAMEWORK_DIR/BridgeSDK.xcframework"
+    -output "$XCFRAMEWORK_DIR"
     
 #codesign --timestamp -v --sign "Apple Distribution: Decibel Insight Ltd. (RLTB3DP362)" "$XCFRAMEWORK_DIR"
-
-cp "$SDK_DIR/Package.swift" "$XCFRAMEWORK_DIR/Package.swift"
-cp "$SDK_DIR/BridgeSDK.podspec" "$XCFRAMEWORK_DIR/BridgeSDK.podspec"
 
 rm -rf "$SDK_DIR/Archives/"
