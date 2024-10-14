@@ -8,6 +8,12 @@ import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@_inheritsConvenienceInitializers @objc public class BridgeComm : ObjectiveC.NSObject {
+  @objc required override dynamic public init()
+  @objc(send:) public func send(data: Swift.String)
+  @objc public func receive() -> Swift.String
+  @objc deinit
+}
 @_inheritsConvenienceInitializers @objc public class BridgeSDK : ObjectiveC.NSObject {
   @objc required override dynamic public init()
   @objc(send:) public func send(data: Swift.String)
